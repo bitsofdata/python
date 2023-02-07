@@ -1,4 +1,6 @@
+x = 2
 
-print("hello")
+x = x + 3
 
-print("hello")
+print (x)
+
